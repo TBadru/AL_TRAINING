@@ -1,0 +1,32 @@
+{
+  "id": "5117dbc2-6fed-4fab-82c4-42c16f3ead40",
+  "name": "ALProject4",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

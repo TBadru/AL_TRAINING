@@ -1,0 +1,12 @@
+{
+    "al.showHomeAtStartup": "Always",
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.OnSaveAlFileAction": "Reorganize",
+
+    "alOutline.completionProviders": [
+        "VariableDataTypes",
+        "VariableNamesWithType"
+    ]
+}
